@@ -2,7 +2,7 @@
 
 **Author:** Ramees Fathima | Data Analyst Internship Project, Elevate Labs
 
-**Live dashboard:** https://rameesfathima.github.io/hr-attrition-analysis/
+**Live dashboard:** https://rameesfathima.github.io/hr-attrition-analysis/dashboard
 
 ## Project summary
 This project analyses the IBM HR Analytics dataset (1,470 employees, 16.1% attrition) to find why employees leave, predict who is at risk, and estimate the savings from targeted retention.
