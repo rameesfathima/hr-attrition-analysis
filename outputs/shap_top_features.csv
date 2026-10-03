@@ -1,0 +1,16 @@
+,mean |SHAP|
+OverTime_Yes,0.637
+StockOptionLevel,0.421
+NumCompaniesWorked,0.343
+Age,0.309
+DistanceFromHome,0.296
+EnvironmentSatisfaction,0.281
+MonthlyIncome,0.272
+YearsWithCurrManager,0.264
+JobSatisfaction,0.246
+BusinessTravel_Travel_Frequently,0.237
+DailyRate,0.224
+JobRole_Research Scientist,0.218
+RelationshipSatisfaction,0.215
+JobLevel,0.15
+JobInvolvement,0.136

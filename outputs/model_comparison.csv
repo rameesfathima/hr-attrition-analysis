@@ -1,0 +1,5 @@
+Model,CV ROC-AUC,Accuracy,Precision,Recall,F1,Test ROC-AUC
+Logistic Regression,0.831,0.748,0.345,0.638,0.448,0.806
+XGBoost,0.808,0.806,0.407,0.468,0.436,0.772
+Random Forest,0.802,0.82,0.312,0.106,0.159,0.778
+Decision Tree,0.697,0.765,0.347,0.532,0.42,0.723
